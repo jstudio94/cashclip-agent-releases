@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.3/CashClipAgent-Setup-1.0.3.exe",
-  "sha256": "5ad6faabaa719276ad2dda32f3a4c1599b6ba5fcdf756b4897042006172b9939",
-  "notes": "로그인 후 창이 바로 뜨도록 수정. 처음 설치는 이 파일을 받으세요."
+  "version": "1.0.4",
+  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.4/CashClipAgent-Setup-1.0.4.exe",
+  "sha256": "fb126b9edf21b49a87f7bea3cbb524bafa8551fd995288d5df8004c4f92c0ce4",
+  "notes": "앱 안에서 실시간 뉴스·검색어 보기. 처음 설치는 이 파일을 받으세요."
 }
