@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.6/CashClipAgent-Setup-1.0.6.exe",
-  "sha256": "f53a2b24c49da38ee5f92b655e96cc41fc7a76bb12438f85898077ca1160db73",
-  "notes": "처음 설치는 이 파일을 받으세요."
+  "version": "1.0.7",
+  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.7/CashClipAgent-Setup-1.0.7.exe",
+  "sha256": "ac67605cb01bd947c1e30c3ab2e338d721b13003ca94dcd99369f71f2a3fb716",
+  "notes": "플레이스 글에 업주 사진을 쉽게 넣을 수 있습니다 (폴더/사진 선택, 끌어다 놓기, 주소 뒤 ' | 사진폴더')."
 }
