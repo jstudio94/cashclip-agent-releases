@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.7/CashClipAgent-Setup-1.0.7.exe",
-  "sha256": "ac67605cb01bd947c1e30c3ab2e338d721b13003ca94dcd99369f71f2a3fb716",
-  "notes": "플레이스 글에 업주 사진을 쉽게 넣을 수 있습니다 (폴더/사진 선택, 끌어다 놓기, 주소 뒤 ' | 사진폴더')."
+  "version": "1.0.8",
+  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.8/CashClipAgent-Setup-1.0.8.exe",
+  "sha256": "c948e90f0b9c03ba641946fccd2b83bcf66d4a9e550640647300d6f50845a9a9",
+  "notes": "Gemini 2.5 모델이 막혀 글 생성이 실패하던 문제를 고쳤습니다. 막히면 새 모델(gemini-3.5-flash)로 자동 전환합니다."
 }
