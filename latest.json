@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.8/CashClipAgent-Setup-1.0.8.exe",
-  "sha256": "c948e90f0b9c03ba641946fccd2b83bcf66d4a9e550640647300d6f50845a9a9",
-  "notes": "Gemini 2.5 모델이 막혀 글 생성이 실패하던 문제를 고쳤습니다. 막히면 새 모델(gemini-3.5-flash)로 자동 전환합니다."
+  "version": "1.0.9",
+  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.9/CashClipAgent-Setup-1.0.9.exe",
+  "sha256": "db926f62d2787891287cc7f10667d910eec61879f2a8efaff659b2065b71ef94",
+  "notes": "화면의 비용 표시를 없앴습니다. Gemini 모델이 막히면 새 모델로 자동 전환합니다."
 }
