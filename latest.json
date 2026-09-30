@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.0.9/CashClipAgent-Setup-1.0.9.exe",
-  "sha256": "db926f62d2787891287cc7f10667d910eec61879f2a8efaff659b2065b71ef94",
-  "notes": "화면의 비용 표시를 없앴습니다. Gemini 모델이 막히면 새 모델로 자동 전환합니다."
+  "version": "1.1.0",
+  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.1.0/CashClipAgent-Setup-1.1.0.exe",
+  "sha256": "a08faa7ce0418a4212d25343016022449af6a791b70894043db1a72e18e08f2c",
+  "notes": "실시간 뉴스·검색어에서 '이 글로 바로 발행하기', 플레이스 빠른 캠페인 심의필 확인이 추가됐습니다."
 }
