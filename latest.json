@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.1.0/CashClipAgent-Setup-1.1.0.exe",
-  "sha256": "a08faa7ce0418a4212d25343016022449af6a791b70894043db1a72e18e08f2c",
-  "notes": "실시간 뉴스·검색어에서 '이 글로 바로 발행하기', 플레이스 빠른 캠페인 심의필 확인이 추가됐습니다."
+  "version": "1.1.1",
+  "url": "https://github.com/jstudio94/cashclip-agent-releases/releases/download/v1.1.1/CashClipAgent-Setup-1.1.1.exe",
+  "sha256": "7fd0433af869364f60e06fd5b7e8583943220316355ffdbfd10b14e2530d004e",
+  "notes": "본문 AI 자동생성이 꺼진 빈 블록을 AI 가 대신 써서, 그 때문에 발행이 막히던 문제를 고쳤습니다."
 }
